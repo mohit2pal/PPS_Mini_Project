@@ -1,0 +1,15 @@
+
+Roll number: 1
+ First Name: Subha
+ Marks: 78.0
+ Date of Birth: 3 : 7 : 2001 
+
+Roll number: 2
+ First Name: Sparsh
+ Marks: 23.0
+ Date of Birth: 5 : 9 : 2002 
+
+Roll number: 3
+ First Name: Rahul
+ Marks: 89.0
+ Date of Birth: 23 : 9 : 2001 
